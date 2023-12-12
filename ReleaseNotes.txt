@@ -1,0 +1,4 @@
+Versión 1.0.0 11-12-2023
+
+Creación del proyecto como MVP para cumplir con requisitos minimos. 
+	- La versión solo personaliza algunas excepciones.
